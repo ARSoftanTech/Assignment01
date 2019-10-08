@@ -1,0 +1,24 @@
+body{
+    background-color: silver
+    
+}
+#Anam0{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#Anam1{
+    background-color: saddlebrown;
+    color: white;
+}
+#Anam2{
+    color:darkmagenta;
+    font-size: 18px
+}
+#Anam3{
+    color:saddlebrown;
+
+}
+#ami{
+    color:darkmagenta
+}
